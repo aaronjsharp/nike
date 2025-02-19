@@ -57,7 +57,7 @@ const Footer = () => {
             height={20}
             className="rounded-full m-0"
           />
-          <p>Copyright 2023 - All rights reserved.</p>
+          <p> 2023 Aaron Sharp. All rights reserved.</p>
         </div>
         <p className="font-montserrat cursor-pointer">Terms & Conditions</p>
       </div>
